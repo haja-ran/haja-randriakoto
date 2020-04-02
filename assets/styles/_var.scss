@@ -1,0 +1,27 @@
+$family-sans-serif: "Sarala",
+BlinkMacSystemFont,
+-apple-system,
+"Segoe UI",
+"Roboto",
+"Oxygen",
+"Ubuntu",
+"Cantarell",
+"Fira Sans",
+"Droid Sans",
+"Helvetica Neue",
+"Helvetica",
+"Arial",
+sans-serif;
+
+$title-family: 'Yeseva One',
+$family-sans-serif;
+$title-weight: 400;
+
+// $primary: #ef3a64;
+$red: #ef3a64;
+$danger: $red;
+$primary: #0480FC;
+
+$radius: 0;
+$radius-large: 0;
+@import "~/node_modules/bulma/sass/utilities/_all.sass";

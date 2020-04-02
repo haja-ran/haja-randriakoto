@@ -1,0 +1,12 @@
+.card-footer-item {
+  font-size: $size-7;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  display: block;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+
+  &:hover {
+    background: $light
+  }
+}

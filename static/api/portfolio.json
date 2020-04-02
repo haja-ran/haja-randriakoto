@@ -1,0 +1,154 @@
+[
+  {
+    "id": "loeil-de-focus",
+    "title": "L'Oeil de Focus",
+    "subtitle": "Simple explanations for complex subjects",
+    "pitch": "Understanding French politics is a challenge for the mass. L'Oeil de Focus aims to solve this issue. The goal here was to make the information accessible for everyone.",
+    "roles": "UI/UX Design, Coding",
+    "context": "Agency",
+    "client": "L'Oeil de Focus",
+    "thumbnail": {
+      "default": "/img/portfolio/ldf-thumbnail.jpg",
+      "retina": "/img/portfolio/ldf-thumbnail@2x.jpg"
+    },
+    "theme": "#D8E6F5",
+    "images": [
+      {
+        "default": "/img/portfolio/ldf-home.jpg",
+        "retina": "/img/portfolio/ldf-home@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/ldf-bibliotheque.jpg",
+        "retina": "/img/portfolio/ldf-bibliotheque@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/ldf-les-focus.jpg",
+        "retina": "/img/portfolio/ldf-les-focus@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/ldf-misc.jpg",
+        "retina": "/img/portfolio/ldf-misc@2x.jpg"
+      }
+    ]
+  },
+  {
+    "id": "lm5p",
+    "title": "Le Mouton à 5 pattes",
+    "subtitle": "Your lighting partner",
+    "pitch": "LM5P Offers lighting gears. The goal here was to inspire customers and push them to click on the contact button by showcasing what the company has already done.",
+    "roles": "UI Design, Coding",
+    "context": "Agency",
+    "client": "LM5P",
+    "theme": "#F2F2F2",
+    "thumbnail": {
+      "default": "/img/portfolio/lm5p-thumbnail.jpg",
+      "retina": "/img/portfolio/lm5p-thumbnail@2x.jpg"
+    },
+    "images": [
+      {
+        "default": "/img/portfolio/lm5p-home.jpg",
+        "retina": "/img/portfolio/lm5p-home@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/lm5p-typography.jpg",
+        "retina": "/img/portfolio/lm5p-typography@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/lm5p-palette.jpg",
+        "retina": "/img/portfolio/lm5p-palette@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/lm5p-screen-1.jpg",
+        "retina": "/img/portfolio/lm5p-screen-1@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/lm5p-screen-2.jpg",
+        "retina": "/img/portfolio/lm5p-screen-2@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/lm5p-screen-3.jpg",
+        "retina": "/img/portfolio/lm5p-screen-3@2x.jpg"
+      }
+    ]
+  },
+  {
+    "id": "la-giraphe",
+    "title": "La Giraphe",
+    "subtitle": "An unusual hotel in the south of France",
+    "pitch": "La Giraphe is a hotel in the south of France. Their environnement and decorations are heavily inspired by africa. The goal was to convey the personality of this unique hotel through a visual language.",
+    "roles": "UI Design, Coding",
+    "context": "Agency",
+    "client": "La Giraphe",
+    "theme": "#BDD9BF",
+    "thumbnail": {
+      "default": "/img/portfolio/la-giraphe-thumbnail.jpg",
+      "retina": "/img/portfolio/la-giraphe-thumbnail@2x.jpg"
+    },
+    "images": [
+      {
+        "default": "/img/portfolio/la-giraphe-home.jpg",
+        "retina": "/img/portfolio/la-giraphe-home@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/la-giraphe-typography.jpg",
+        "retina": "/img/portfolio/la-giraphe-typography@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/la-giraphe-palette.jpg",
+        "retina": "/img/portfolio/la-giraphe-palette@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/la-giraphe-screen-1.jpg",
+        "retina": "/img/portfolio/la-giraphe-screen-1@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/la-giraphe-screen-2.jpg",
+        "retina": "/img/portfolio/la-giraphe-screen-2@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/la-giraphe-screen-3.jpg",
+        "retina": "/img/portfolio/la-giraphe-screen-3@2x.jpg"
+      }
+    ]
+  },
+  {
+    "id": "reso-solution",
+    "title": "Réso Solution",
+    "subtitle": "Coaching and e-learning",
+    "pitch": "Réso-Solution offers coaching services and e-learning material for entrepreneurs and job seekers. The goal was to give the company credibility and create trust around the brand.",
+    "roles": "UI Design, Coding",
+    "context": "Agency",
+    "client": "Réso-Solution",
+    "theme": "#FBFBF9",
+    "thumbnail": {
+      "default": "/img/portfolio/reso-solution-thumbnail.jpg",
+      "retina": "/img/portfolio/reso-solution-thumbnail@2x.jpg"
+    },
+    "images": [
+      {
+        "default": "/img/portfolio/reso-solution-home.jpg",
+        "retina": "/img/portfolio/reso-solution-home@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/reso-solution-typography.jpg",
+        "retina": "/img/portfolio/reso-solution-typography@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/reso-solution-palette.jpg",
+        "retina": "/img/portfolio/reso-solution-palette@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/reso-solution-screen-1.jpg",
+        "retina": "/img/portfolio/reso-solution-screen-1@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/reso-solution-screen-2.jpg",
+        "retina": "/img/portfolio/reso-solution-screen-2@2x.jpg"
+      },
+      {
+        "default": "/img/portfolio/reso-solution-screen-3.jpg",
+        "retina": "/img/portfolio/reso-solution-screen-3@2x.jpg"
+      }
+    ]
+  }
+]

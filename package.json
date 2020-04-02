@@ -1,0 +1,27 @@
+{
+  "name": "haja-randriakoto",
+  "version": "1.0.0",
+  "description": "Haja Randriakoto - Designer &amp; Developer",
+  "author": "haja-ran",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/bulma": "^1.2.1",
+    "animejs": "^3.1.0",
+    "axios": "^0.19.2",
+    "instafeed.js": "^1.4.1",
+    "modernizr": "^3.9.1",
+    "node-sass": "^4.13.1",
+    "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2",
+    "vue-observe-visibility": "^0.4.6",
+    "vue-scrollactive": "^0.8.0",
+    "vue-scrollto": "^2.17.1"
+  },
+  "devDependencies": {}
+}

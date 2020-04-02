@@ -1,0 +1,39 @@
+a,
+button,
+.button,
+input,
+textarea {
+  transition: all .3s;
+}
+
+.page-leave-to {
+  // transform: translateX(-100%);
+  opacity: 0;
+}
+
+.page-enter {
+  // transform: translateX(100%);
+  opacity: 0;
+}
+
+.page-enter-to {
+  transform: none;
+  opacity: 1;
+}
+
+.page-leave {
+  transform: none;
+  opacity: 1;
+}
+
+.page-enter-active {
+  z-index: 2;
+}
+
+.page-enter-active {
+  transition: all .4s ease-out;
+}
+
+.page-leave-active {
+  transition: all .4s ease-in;
+}
